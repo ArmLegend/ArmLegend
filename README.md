@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm Chokchai
+- I'm a person who doesn't use social media anymore.
+- I love spending my time learning new things, especially in DevOps and Cloud.
+- My favorite programming language is Go (2024 is for Go, to be honest).
+- Walking in the park is one of my favorite activities.
+- I also write a blog mainly about DevOps and Cloud technology.
 
 <!--
 **ArmLegend/ArmLegend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
