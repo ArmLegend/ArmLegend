@@ -1,12 +1,12 @@
 ### Hi there 👋, My name is Chokchai.
-About me:
+**About me:**
 - I'm a person who doesn't use social media anymore.
 - I love spending my time learning new things, especially in DevOps and Cloud.
 - My favorite programming language is Go (2024 is for Go, tbh).
 - Walking in the park is one of my favorite activities.
 - I also write a blog mainly about DevOps Tools and Cloud technology.
   
-Technologies I like to play with:
+**Technologies I like to play with:**
 <h4 align="left">Languages:</h4>
 <p align="left">    <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
