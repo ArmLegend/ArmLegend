@@ -1,8 +1,7 @@
-### Hi there 👋, My name is Chokchai.
-**About me:**
+### Hey👋, I'm Chokchai.
 - I'm a person who doesn't use social media anymore.
 - I love spending my time learning new things, especially in DevOps and Cloud.
-- My favorite programming language is Go (2024 is for Go, tbh).
+- My favorite programming language is Go (Go is Amazing).
 - Walking in the park is one of my favorite activities.
 - I also write a blog mainly about DevOps Tools and Cloud technology.
   
