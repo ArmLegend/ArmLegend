@@ -1,9 +1,8 @@
 ### Hey👋, I'm Chokchai.
 - I'm a person who doesn't use social media anymore.
-- I love spending my time learning new things, especially in DevOps and Cloud.
+- I love spending my time learning new things, especially in self-improvement and software development.
 - My favorite programming language is Go (Go is Amazing).
 - Walking in the park is one of my favorite activities.
-- I also write a blog mainly about DevOps Tools and Cloud technology.
   
 **Technologies I like to play with:**
 <p align="left">    
