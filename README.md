@@ -18,6 +18,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40"/></a>
   <a><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40"/></a>
+  <a><img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" width="40"/></a>
 </p>
 
 
