@@ -1,8 +1,8 @@
 ### Hey👋, I'm Chokchai.
-- I'm a person who doesn't use social media anymore.
-- I love spending my time learning new things, especially in self-improvement and software development.
-- My favorite programming language is Go (Go is Amazing).
-- Walking in the park is one of my favorite activities.
+- 🔭 I love spending my time learning new things, especially in self-improvement and software development.
+- ⚡ My favorite programming language is Go (Go is Amazing).
+- 👯 Walking in the park is one of my favorite activities.
+- 🖥️ Computer system is my current interest. (Deep dive into how computer works is very fascinating)
   
 **Technologies I like to play with:**
 <p align="left">    
