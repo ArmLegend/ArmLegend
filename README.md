@@ -1,8 +1,12 @@
-### Hey👋, I'm Chokchai.
-- 🔭 I love spending my time learning new things, especially in self-improvement and software development.
-- ⚡ My favorite programming language is Go (Go is Amazing).
-- 👯 Walking in the park is one of my favorite activities.
-- 🖥️ Computer system is my current interest. (Deep dive into how computer works is very fascinating)
+### Hey👋, I'm Chokchai.  
+
+- 🚀 Passionate about building scalable infrastructure and automating workflows.  
+- ☁️ Cloud / DevOps Engineer with experience in CI/CD, cloud platforms, and container orchestration.  
+- 🔧 Love working with tools like Kubernetes, Terraform, and Docker.  
+- 📈 Always exploring new technologies to improve system reliability and efficiency.  
+- 💡 Breaking things, fixing them, and automating so I never have to fix them again.  
+- 🎯 Always leveling up—because tech waits for no one.  
+
   
 **Technologies I like to play with:**
 <p align="left">    
